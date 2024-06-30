@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#, Unity, GameDevelopment**
 
-- 📫 How to reach me **Shulavoffice@gmail.com**
+- 📫 How to reach me **OfficialShulav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
